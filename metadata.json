@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent Healthcare-Support Application",
+  "description": "An AI-powered medical companion that reads and interprets complex medical documents, transforming them into simple, structured, and actionable guidance for patients, caregivers, and doctors.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
